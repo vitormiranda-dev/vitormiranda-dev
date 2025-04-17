@@ -34,7 +34,8 @@ Bem-vindo ao meu repositório! Aqui você encontrará projetos desenvolvidos com
 Se quiser trocar uma ideia ou colaborar em algo, me chame por aqui:
 
 - 📧 Email: **vitor.alves.miranda@hotmail.com**
-- 💼 LinkedIn: [Seu LinkedIn](linkedin.com/in/vitor-miranda-b38644300)
+- 💼 LinkedIn: [Vitor Miranda](https://linkedin.com/in/vitor-miranda-b38644300)
+
 
  
    />
